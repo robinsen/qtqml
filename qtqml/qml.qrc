@@ -1,0 +1,26 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>qml/ControlsModule/BaseImage.qml</file>
+        <file>qml/ControlsModule/qmldir</file>
+        <file>qml/StyleModule/qmldir</file>
+        <file>qml/StyleModule/Style.qml</file>
+        <file>qml/ViewModule/MainToolView.qml</file>
+        <file>qml/ViewModule/qmldir</file>
+        <file>qml/ViewModule/MainView.qml</file>
+        <file>qml/ControlsModule/BaseRect.qml</file>
+        <file>qml/ViewModule/ToolItem.qml</file>
+        <file>qml/ViewModule/AllView.qml</file>
+        <file>qml/ViewModule/DataView.qml</file>
+        <file>qml/ViewModule/MalfunctionView.qml</file>
+        <file>qml/ViewModule/ManualView.qml</file>
+        <file>qml/ViewModule/PowerView.qml</file>
+        <file>qml/ViewModule/RealTimeView.qml</file>
+        <file>qml/ViewModule/SettingView.qml</file>
+        <file>qml/ViewModule/SingleView.qml</file>
+        <file>qml/ViewModule/StatusView.qml</file>
+        <file>qml/ViewModule/WarningView.qml</file>
+        <file>qml/ViewModule/ReportView.qml</file>
+        <file>qml/ControlsModule/DonutChart.qml</file>
+    </qresource>
+</RCC>

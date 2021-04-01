@@ -1,0 +1,3 @@
+module ControlsModule
+BaseRect 1.0 BaseRect.qml
+BaseImage 1.0 BaseImage.qml

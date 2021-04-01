@@ -1,0 +1,3 @@
+module ViewModule
+MainToolView 1.0 MainToolView.qml
+MainView 1.0 MainView.qml
